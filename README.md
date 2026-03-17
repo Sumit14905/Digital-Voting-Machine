@@ -44,10 +44,10 @@ The project is divided into different modules:
 Below are some waveform outputs from the simulation:
 
 ### Waveform 1
-![Waveform1](Results/waveform1.png)
+![Waveform1](Results/Waveform1.png)
 
 ### Waveform 2
-![Waveform2](Results/waveform2.png)
+![Waveform2](Results/Waveform2.png)
 
 
 ## Tools Used
